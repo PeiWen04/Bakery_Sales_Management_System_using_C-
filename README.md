@@ -149,6 +149,3 @@ The system will prompt:
 * Adding cookies/cakes to the cart
 * Confirming and processing payment
 
-
-
-Would you like me to make this README include **GitHub-friendly badges** (for Python version, license, etc.) and a **diagram of the class relationships (UML-style)**?
