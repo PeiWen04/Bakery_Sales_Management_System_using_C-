@@ -1,6 +1,6 @@
 # 🍪 Cookies and Cakes Sales Management System
 
-A ** object-oriented system** designed for **The Taste A Bites Bakery** to manage the sales, inventory, and membership of cookies and cakes efficiently.
+A **object-oriented system** designed for **The Taste A Bites Bakery** to manage the sales, inventory, and membership of cookies and cakes efficiently.
 This program streamlines stock tracking, order handling, and payment processes while offering automated discount systems for members and birthday promotions.
 
 ---
